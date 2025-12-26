@@ -1,7 +1,5 @@
 # e-ducacion
 
-[E_ducacion](https://jazmincaruso.github.io/RJS-tienda/)
-
 Este proyecto es parte del curso de React y representa una plataforma ficticia para la venta de cursos en línea. La tienda de cursos en línea está diseñada y desarrollada utilizando React y otras tecnologías web modernas.
 
 ## Descripción del proyecto
